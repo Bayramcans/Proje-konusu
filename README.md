@@ -1,1 +1,2 @@
 # Proje-konusu
+Proje konum, Pandemi döneminde insanların bir arada olmasını önlemek amacıyla, kuaförlere getirilen randevu sistemini cep telefonundan alıp bir profesyonel web sitesine entegre ederek, müşterilerin oradan randevu almasını ve ayrıca kuaförü tanıtan bir web sitesi ortaya çıkarmak. Bu yöntemle hem artan kalabalığı engellemiş olacağım hem de insanlar berber ile muhattap olmadan doğrudan randevu alabilecek. Projenin en önemli kısmı isi bu projeyi babamın sahip olduğu kuaför dükkanında gerçek zamanlı bir proje olarak kullanıyor olabilmem.
